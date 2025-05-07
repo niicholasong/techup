@@ -5,7 +5,7 @@ console.log(age)
 var username = "preshant"
 var password = "techup"
 
-var isMale = false
+var isMale = true
 var isLoggedIn = false
 
 var blog_posts = ["Today was a good day", "The sky is blue", 
